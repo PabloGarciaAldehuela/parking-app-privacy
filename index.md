@@ -22,7 +22,7 @@ Parking Reminder has one primary function: to save your parked car's location.
 
 To do this, the app requires the **Precise Location (GPS)** permission (`ACCESS_FINE_LOCATION`). 
 
-This location information (latitude and longitude) is collected **only** when you press the "Save" button[cite: 41]. This information, along with a timestamp, is stored **locally on your device** using Jetpack DataStore.
+This location information (latitude and longitude) is collected **only** when you press the "Save" button. This information, along with a timestamp, is stored **locally on your device** using Jetpack DataStore.
 
 This information is **never** transmitted to us or any third party by us.
 
